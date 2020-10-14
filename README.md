@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently pursuing BTech Information Technology on velammal college of engineering and technology ...
-### Hi there, [Dharwin](https://www.linkedin.com/in/dharwin-j-ruppa)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
-![GitHub followers](https://img.shields.io/github/followers/DharwinJRuppa?style=social)
-
-![Profile Views](https://komarev.com/ghpvc/?username=DharwinJRuppa&style=flat-square)
+### Hi there, [Vengadesh](https://www.linkedin.com/in/dharwin-j-ruppa)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+![GitHub followers]
+![Profile Views]
 
 <p>
   <em>
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
   
   **Talking about Personal Stuffs:**
 
-- 💼 I’m currently pursuing my 3nd year of B tech IT at [VCET](https://vcet.ac.in/);
+- 💼 I’m currently pursuing my 3rd year of B tech IT at [VCET](https://vcet.ac.in/);
 - 🤔 My interests are with Web App Development 🖥️.
 - 💬 i am available always to clear all your stuffs;
 - 📫 Please email via venkyks777@gmail.com to reach me;
