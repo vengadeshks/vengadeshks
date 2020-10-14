@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently pursuing BTech Information Technology on velammal college of engineering and technology ...
 ### Hi there, [Vengadesh](https://www.linkedin.com/in/dharwin-j-ruppa)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
-![GitHub followers]
-![Profile Views]
+
 
 <p>
   <em>
