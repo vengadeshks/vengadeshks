@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <em>
-  
+  # yes
   **Talking about Personal Stuffs:**
-#yes
+
 
 - 🤔 My interests are with Web App Development .
 - 💬 i am always available  to clear all your stuffs;
