@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </em>
  </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif" />
 
 <em>
 
