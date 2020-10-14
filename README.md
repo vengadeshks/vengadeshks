@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   **Talking about Personal Stuffs:**
 
 
-- 🤔 My interests are with Web App Development 🖥️.
+- 🤔 My interests are with Web App Development .
 - 💬 i am always available  to clear all your stuffs;
 - 📫 Please email via venkyks777@gmail.com to reach me;
   <br/>
