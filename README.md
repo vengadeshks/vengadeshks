@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 - 🤔 My interests are with Web App Development 🖥️.
-- 💬 i am available always to clear all your stuffs;
+- 💬 i am always available  to clear all your stuffs;
 - 📫 Please email via venkyks777@gmail.com to reach me;
   <br/>
   
