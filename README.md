@@ -1,4 +1,4 @@
-### Hi there, [Vengadesh](https://www.linkedin.com/in/venky-ks-8297581b3)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+### Hi there, I am [Vengadesh](https://www.linkedin.com/in/venky-ks-8297581b3)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
 <!--
 **vengadeshks/vengadeshks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
