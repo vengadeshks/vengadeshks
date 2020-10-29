@@ -36,4 +36,23 @@ Here are some ideas to get you started:
   </em>
   
   <img  alt="Coder GIF"  src="https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif" />
+ <p>
+    <img align="left" alt="html" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027439-82010700-0e75-11eb-83bc-94c9e11cd5fd.png" />
+  <img align="left" alt="css" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027434-81687080-0e75-11eb-9754-857c41274a41.png" />
+  <img align="left" alt="js" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027422-7e6d8000-0e75-11eb-9e2b-90e82ca898b9.png" />
+  <img align="left" alt="php" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027427-80374380-0e75-11eb-978a-f7abd836eaa9.png" />
+  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  <img align="left" alt="mysql" width="26px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img align="left" alt="VisualStudioCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+ 
+ </p>
+ 
+ <br/>
+ 
+ ### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Vengade87802870?s=08)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/venky-ks-8297581b3)
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://user-images.githubusercontent.com/60843507/97083777-1155a980-1630-11eb-80bc-576fb89e3fec.png" />
 
