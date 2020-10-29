@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   </em>
   
   <img  alt="Coder GIF"  src="https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif" />
+  ### Languages and Tools Used
  <p>
     <img align="left" alt="html" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027439-82010700-0e75-11eb-83bc-94c9e11cd5fd.png" />
   <img align="left" alt="css" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027434-81687080-0e75-11eb-9754-857c41274a41.png" />
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
  
  <br/>
  
- ### Connect with me:
+ ### Connect with me
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Vengade87802870?s=08)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/venky-ks-8297581b3)
