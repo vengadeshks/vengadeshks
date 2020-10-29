@@ -31,12 +31,15 @@ Here are some ideas to get you started:
 - 💬 i am always available  to clear all your stuffs;
 - 📫 Please email via venkyks777@gmail.com to reach me;
 - Visite my personal site [click here](https://vengadeshks.github.io/Personal-Website/)
+  
   <br/>
   
   </em>
   
   <img  alt="Coder GIF"  src="https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif" />
-  ### Languages and Tools Used
+  
+  
+ ### Languages and Tools Used
  <p>
     <img align="left" alt="html" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027439-82010700-0e75-11eb-83bc-94c9e11cd5fd.png" />
   <img align="left" alt="css" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027434-81687080-0e75-11eb-9754-857c41274a41.png" />
