@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🤔 My interests are with Web App Development .
 - 💬 i am always available  to clear all your stuffs;
 - 📫 Please email via venkyks777@gmail.com to reach me;
-- Visite my personal site ![click here(https://vengadeshks.github.io/Personal-Website/)
+- Visite my personal site ![click here](https://vengadeshks.github.io/Personal-Website/)
   <br/>
   
   </em>
