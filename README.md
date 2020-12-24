@@ -27,10 +27,12 @@ Here are some ideas to get you started:
   **Talking about Personal Stuffs:**
 
 
--  I am interested on Web App Development .
-- 💬 i am always available  to clear all your stuffs
+-  I am interested on Web Development .
+- 💬 I am always available  to clear all your stuffs
 - 📫 Please email via venkyks777@gmail.com to reach me
 - Visite my personal site [click here](https://vengadeshks.github.io/Personal-Website/)
+- I’m looking to collaborate OpenSource projects on web developement.
+- I'm Currrently working on Java programming and Web Development.
   
   <br/>
   
