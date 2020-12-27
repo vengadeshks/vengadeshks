@@ -39,26 +39,21 @@ Here are some ideas to get you started:
   </em>
   
   <img  alt="Coder GIF"  src="https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif" />
-  
-  
- ### Languages and Tools Used
- <p>
-    <img align="left" alt="html" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027439-82010700-0e75-11eb-83bc-94c9e11cd5fd.png" />
-  <img align="left" alt="css" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027434-81687080-0e75-11eb-9754-857c41274a41.png" />
-  <img align="left" alt="js" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027422-7e6d8000-0e75-11eb-9e2b-90e82ca898b9.png" />
-  <img align="left" alt="php" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027427-80374380-0e75-11eb-978a-f7abd836eaa9.png" />
-  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img align="left" alt="mysql" width="26px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img align="left" alt="VisualStudioCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- 
- </p>
- 
- <br/>
- 
- ### Connect with me
+  <h3 align="center">A passionate frontend developer from India</h3>
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Vengade87802870?s=08)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/venky-ks-8297581b3)
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://user-images.githubusercontent.com/60843507/97083777-1155a980-1630-11eb-80bc-576fb89e3fec.png" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vengadeshks&label=Profile%20views&color=0e75b6&style=flat" alt="vengadeshks" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vengade87802870" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vengade87802870" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/venky-ks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="venky-ks" height="30" width="40" /></a>
+<a href="https://fb.com/venky ks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="venky ks" height="30" width="40" /></a>
+<a href="https://instagram.com/vengadesh_ks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vengadesh_ks" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vengadesh_ks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vengadesh_ks" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vengadeshks777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vengadeshks777" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vengadeshks&show_icons=true&locale=en" alt="vengadeshks" /></p>
