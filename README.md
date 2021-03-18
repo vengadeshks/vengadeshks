@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <h3 align="center">A passionate web developer from India</h3>
 
 <!--stats-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vengadeshks&show_icons=true&locale=en" alt="vengadeshks" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vengadeshks&show_icons=true&locale=en&theme=flag-india" alt="vengadeshks" /></p>
 
 <!--profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vengadeshks&label=Profile%20views&color=0e75b6&style=flat" alt="vengadeshks" /> </p>
